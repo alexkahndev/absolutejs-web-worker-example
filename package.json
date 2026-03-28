@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "@absolutejs/absolute": "0.19.0-beta.169",
+    "@absolutejs/absolute": "0.19.0-beta.170",
     "@angular/common": "^21.0.0",
     "@angular/compiler": "^21.0.0",
     "@angular/compiler-cli": "^21.0.0",
@@ -38,9 +38,11 @@
   },
   "name": "web-worker-test",
   "scripts": {
+    "compile": "absolute compile",
     "dev": "absolute dev",
     "format": "absolute prettier --write",
     "lint": "absolute eslint",
+    "serve": "./compiled-server",
     "start": "absolute start",
     "typecheck": "bun run vue-tsc --noEmit"
   },
