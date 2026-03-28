@@ -5,7 +5,7 @@
     "": {
       "name": "web-worker-test",
       "dependencies": {
-        "@absolutejs/absolute": "0.19.0-beta.167",
+        "@absolutejs/absolute": "0.19.0-beta.169",
         "@angular/common": "^21.0.0",
         "@angular/compiler": "^21.0.0",
         "@angular/compiler-cli": "^21.0.0",
@@ -44,7 +44,7 @@
     },
   },
   "packages": {
-    "@absolutejs/absolute": ["@absolutejs/absolute@0.19.0-beta.167", "", { "dependencies": { "@angular/compiler": "^21.0.0" }, "optionalDependencies": { "@absolutejs/native-darwin-arm64": "0.19.0-beta.52", "@absolutejs/native-darwin-x64": "0.19.0-beta.52", "@absolutejs/native-linux-arm64": "0.19.0-beta.52", "@absolutejs/native-linux-x64": "0.19.0-beta.52", "@absolutejs/native-windows-arm64": "0.19.0-beta.52", "@absolutejs/native-windows-x64": "0.19.0-beta.52" }, "peerDependencies": { "@angular/common": "^21.0.0", "@angular/compiler-cli": "^21.0.0", "@angular/core": "^21.0.0", "@angular/platform-browser": "^21.0.0", "@angular/platform-server": "^21.0.0", "@angular/ssr": "^21.0.0", "elysia": "^1.4.0", "react": "^19.2.0", "react-dom": "^19.2.0", "react-refresh": "^0.18.0", "svelte": "^5.35.2", "vue": "^3.5.27", "zone.js": "^0.15.0" }, "optionalPeers": ["@angular/common", "@angular/compiler-cli", "@angular/core", "@angular/platform-browser", "@angular/platform-server", "@angular/ssr", "react", "react-dom", "react-refresh", "svelte", "vue", "zone.js"], "bin": { "absolute": "dist/cli/index.js" } }, "sha512-nmaxmdS3PgDKQiQoowUaJ0tNp29yCLKygebGzqP9+M+AENnxqR9+W6kmacl/LS9i0zStKa6P/fWuPRbfRgid0A=="],
+    "@absolutejs/absolute": ["@absolutejs/absolute@0.19.0-beta.169", "", { "dependencies": { "@angular/compiler": "^21.0.0" }, "optionalDependencies": { "@absolutejs/native-darwin-arm64": "0.19.0-beta.52", "@absolutejs/native-darwin-x64": "0.19.0-beta.52", "@absolutejs/native-linux-arm64": "0.19.0-beta.52", "@absolutejs/native-linux-x64": "0.19.0-beta.52", "@absolutejs/native-windows-arm64": "0.19.0-beta.52", "@absolutejs/native-windows-x64": "0.19.0-beta.52" }, "peerDependencies": { "@angular/common": "^21.0.0", "@angular/compiler-cli": "^21.0.0", "@angular/core": "^21.0.0", "@angular/platform-browser": "^21.0.0", "@angular/platform-server": "^21.0.0", "@angular/ssr": "^21.0.0", "elysia": "^1.4.0", "react": "^19.2.0", "react-dom": "^19.2.0", "react-refresh": "^0.18.0", "svelte": "^5.35.2", "vue": "^3.5.27", "zone.js": "^0.15.0" }, "optionalPeers": ["@angular/common", "@angular/compiler-cli", "@angular/core", "@angular/platform-browser", "@angular/platform-server", "@angular/ssr", "react", "react-dom", "react-refresh", "svelte", "vue", "zone.js"], "bin": { "absolute": "dist/cli/index.js" } }, "sha512-Z+yEIp11xMdNQTrc2TdGJicJk1hGFTEoaWmAlulBuDG+pKm4PwQ34heimgrT2Xt8craoqrtDNKXy3x8XoYwQgA=="],
 
     "@absolutejs/native-darwin-arm64": ["@absolutejs/native-darwin-arm64@0.19.0-beta.52", "", { "os": "darwin", "cpu": "arm64" }, "sha512-Rn+4M1CKB+bxEUomn3pcQp1ctao1MOTr0yAgfsoa3nGQLhHKRzT5YIc8z1S0LoUkhf1RmL11ALmB6AptHMZcCw=="],
 
